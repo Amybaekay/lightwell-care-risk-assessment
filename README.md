@@ -1,5 +1,3 @@
-
-Healthcare risk assessment for a fictional medical centre: risk register, risk matrix, treatment plan and methodology.
 # Lightwell Care Group: Healthcare Risk Assessment
 
 A GRC portfolio project: an end-to-end risk assessment for a fictional GP practice, covering a 31-risk register, 5x5 inherent and residual risk matrices, a costed treatment plan, key risk indicators (KRIs) and a risk owner report for a Risk Committee.
@@ -7,8 +5,9 @@ A GRC portfolio project: an end-to-end risk assessment for a fictional GP practi
 > **All organisations, people, figures and incidents in this project are fictional and simulated for portfolio purposes.** Regulatory and framework references (UK GDPR, CQC, DSPT, ISO 27001 and so on) are real. Costs are indicative estimates.
 
 ## Scenario
-| | |
 
+| | |
+|---|---|
 | **Organisation** | Lightwell Medical Centre (fictional), part of Lightwell Care Group |
 | **Setting** | Single-site urban GP practice, Merseyside, England; high deprivation index |
 | **Size** | 18,640 registered patients; 74 staff (58.6 WTE); £6.4m annual income |
